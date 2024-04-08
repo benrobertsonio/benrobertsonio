@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Ben.
+
+I'm currently working on ColorBliss.art - where you can make any coloring page or coloring book you can imagine! It includes:
+- A [coloring page generator](https://colorbliss.art/ai-generated-coloring-page)
+- [Custom coloring book printing](https://colorbliss.art/custom-coloring-books)
+- and more to come!
+
 <!--
 **benrobertsonio/benrobertsonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,8 +3,8 @@
 I'm Ben.
 
 I'm currently working on ColorBliss.art - where you can make any coloring page or coloring book you can imagine! It includes:
-- A [coloring page generator](https://colorbliss.art/ai-generated-coloring-page)
-- [Custom coloring book printing](https://colorbliss.art/custom-coloring-books)
+- A [coloring page generator](https://colorbliss.com/ai-generated-coloring-page)
+- [Custom coloring book printing](https://colorbliss.com/custom-coloring-books)
 - and more to come!
 
 <!--

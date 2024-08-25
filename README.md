@@ -2,10 +2,12 @@
 
 I'm Ben.
 
-I'm currently working on ColorBliss.art - where you can make any coloring page or coloring book you can imagine! It includes:
+I'm currently working on [ColorBliss](https://colorbliss.com) - where you can make any coloring page or coloring book you can imagine! It includes:
 - A [coloring page generator](https://colorbliss.com/ai-generated-coloring-page)
 - [Custom coloring book printing](https://colorbliss.com/custom-coloring-books)
-- and more to come!
+- [Photo to coloring page converter](https://colorbliss.com/product/photo-to-coloring-page)
+
+Also having a bit of fun with a [hotels for kids](https://hotelsforkids.net) directory.
 
 <!--
 **benrobertsonio/benrobertsonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

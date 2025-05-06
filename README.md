@@ -3,9 +3,10 @@
 I'm Ben.
 
 I'm currently working on [ColorBliss](https://colorbliss.com) - where you can make any coloring page or coloring book you can imagine! It includes:
-- A [coloring page generator](https://colorbliss.com/ai-generated-coloring-page)
+- A [coloring page generator](https://colorbliss.com/)
 - [Custom coloring book printing](https://colorbliss.com/custom-coloring-books)
-- [Photo to coloring page converter](https://colorbliss.com/product/photo-to-coloring-page)
+- [Photo to coloring page converter](https://colorbliss.com/photo-to-coloring-page-converter)
+
 
 Also having a bit of fun with a [hotels for kids](https://hotelsforkids.net) directory.
 
